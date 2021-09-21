@@ -17,6 +17,15 @@ body {
 .list {
   list-style-type: none;
 }
+.container {
+  width: 1200px;
+}
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .section-tittle {
   font-weight: 700;
   font-size: 36px;
